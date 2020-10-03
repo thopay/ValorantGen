@@ -74,7 +74,7 @@ When you run the script you'll be prompted to enter your catchall domain. After 
 <!-- ROADMAP -->
 ## Roadmap
 
-# I don't really have a reason to add anything, since Valorant is public now, but here's things I would look into if other games used the same general process
+### I don't really have a reason to add anything, since Valorant is public now, but here's things I would look into if other games used the same general process
 * Automatic proxy rotation
 * Captcha API like 2captcha or anticaptcha so it's fully hands off (Unknown how I would handle Arkose Labs captcha for Twitch though)
 * Saves results to txt file (This is pretty easy but I wrote this in a day or so and was lazy)
