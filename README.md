@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/th-ms/ValorantGen.git
+git clone https://github.com/thopay/ValorantGen.git
 ```
 2. Download the <a href="https://chromedriver.chromium.org/downloads">Chrome WebDriver</a> that matches your version
 3. Run the script
