@@ -7,12 +7,12 @@
   <p align="center">
     Generates League/Twitch Accounts
     <br />
-    <a href="https://github.com/th-ms/ValorantGen/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/thopay/ValorantGen/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/th-ms/ValorantGen/">Report Bug</a>
+    <a href="https://github.com/thopay/ValorantGen/">Report Bug</a>
     ·
-    <a href="https://github.com/th-ms/ValorantGen/">Request Feature</a>
+    <a href="https://github.com/thopay/ValorantGen/">Request Feature</a>
   </p>
 </p>
 
@@ -80,7 +80,7 @@ When you run the script you'll be prompted to enter your catchall domain. After 
 * Saves results to txt file (This is pretty easy but I wrote this in a day or so and was lazy)
 * Implement webdriver-manager so the user doesn't need to install webdriver themself
 
-See the [open issues](https://github.com/th-ms/ValorantGen/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/thopay/ValorantGen/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -108,4 +108,4 @@ Distributed under the MIT License.
 
 Thomas - [@th___mas](https://twitter.com/th___mas) - contact@th-mas.dev
 
-Project Link: [https://github.com/th-ms/ValorantGen](https://github.com/th-ms/ValorantGen)
+Project Link: [https://github.com/thopay/ValorantGen](https://github.com/thopay/ValorantGen)
